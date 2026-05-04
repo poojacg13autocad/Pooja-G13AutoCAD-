@@ -84,8 +84,23 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <!-- Project 1 -->
 <h3 id="project1">Project 1: Regenerative Braking System</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+This project demonstrates the concept of capturing and reusing braking energy, which is typically lost, to enhance overall system efficiency
+
+Key Components Used:
+
+Spur gears
+
+Rack and pinion mechanism
+
+Compression springs
+
+Structural frame
+
+Shaft and bearing supports
+
+Working Principle: When braking force is applied,
+
+the rack translates linearly, causing the gear mechanism to rotate. This rotational motion compresses the springs, thereby storing mechanical energy. The stored energy can subsequently be released and reused, improving system efficiency. This project has significantly enhanced my skills in 3D modeling, assembly design, and mechanical system integration using SolidWorks
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
@@ -94,8 +109,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <!-- Project 2 -->
 <h3 id="project2">Project 2: Guided Rack-Climbing Robotic System for Automated Bin Retrieval</h3>
 <p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
+  This project demonstrates the concept of claimbing and replace the bin for their position to respective place.
 </p>
 <p>
   <a href=https://github.com/poojacg13autocad/Pooja-G13AutoCAD-/blob/2644f31ca17b433298e353f205cc1b1da99c3b48/Project%20Report%20of%20Robot%20pdf.pdf target="_blank"><strong>→ View Full Project Report</strong></a>
