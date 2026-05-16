@@ -109,7 +109,9 @@ the rack translates linearly, causing the gear mechanism to rotate. This rotatio
 <!-- Project 2 -->
 <h3 id="project2">Project 2: Guided Rack-Climbing Robotic System for Automated Bin Retrieval</h3>
 <p>
-  This project demonstrates the concept of claimbing and replace the bin for their position to respective place.
+   This project is designed to automate the transportation of materials, products, or tools inside an industrial environment. The robots move automatically from one location to another without human assistance. They help reduce manual labor, improve efficiency, and increase safety in industries.
+The image shows multiple mobile robots carrying storage containers or loads in a factory setup.
+[8:34 pm, 16/05/2026] POOJA: This project demonstrates an intelligent industrial transportation system using autonomous mobile robots. It improves productivity, reduces human workload, and supports modern smart manufacturing systems. Such robots are becoming an important part of Industry 4.0 and factory automation.
 </p>
 <p>
   <a href=https://github.com/poojacg13autocad/Pooja-G13AutoCAD-/blob/2644f31ca17b433298e353f205cc1b1da99c3b48/Project%20Report%20of%20Robot%20pdf.pdf target="_blank"><strong>→ View Full Project Report</strong></a>
